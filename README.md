@@ -6,6 +6,7 @@ In the Land Surveying industry, a common task is to take an orthophoto image tak
 The primary goal of this project is to simplify the CAD mapping process by delivering a software application that takes as input the drone image, processes the linework as a 2D graph object, and outputs a CAD file with the completed work. If performed at a high enough accuracy, such an application would significantly accelerate the mapping procedure. It would allow land surveyors to begin the manual process with QA on the auto-completed linework, instead of completing all linework by hand, so that they can quickly move on to other aspects (e.g., labelling).
 
 ## Current Branches 
+Please keep your work on the appropriate branch until ready to merge to Main:
 - Main
 - prototyping
 - edge-detection
