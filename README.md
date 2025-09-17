@@ -7,7 +7,8 @@ The primary goal of this project is to simplify the CAD mapping process by deliv
 
 ## Current Branches 
 - Main
-- Edge detection
-- tif parsing
-- wdg crafting
+- prototyping
+- edge-detection
+- tif-parsing
+- wdg-crafting
 - gui
